@@ -12,7 +12,10 @@
     "joi": "^17.13.3",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^7.8.7",
-    "morgan": "^1.10.0"
+    "morgan": "^1.10.0",
+    "next": "^15.3.2",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
   },
   "devDependencies": {
     "eslint": "^8.56.0",
