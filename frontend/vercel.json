@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "build": {
+    "env": {
+      "NEXT_PUBLIC_API_URL": "https://vercel.com/asadovs-projects/trade-typhoon/9uM5twNtw3NCnnS8wqTCgnYPkPop?filter=errors"
+    }
+  },
+  "buildCommand": "npm run build",
+  "outputDirectory": ".next"
+}
